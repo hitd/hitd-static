@@ -1,0 +1,3 @@
+Hitd Micorservice to serve static file;
+
+Usefull in dev mode, or if you have a distributed file system on your host
